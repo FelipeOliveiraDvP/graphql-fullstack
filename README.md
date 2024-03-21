@@ -1,6 +1,6 @@
-# Odyssey Lift-off I: Basics
+# Odyssey Lift-off
 
-Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
+Welcome to the companion app of Odyssey Lift-off! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
 
 You can [preview the completed demo app here](https://odyssey-catstronauts.netlify.app/).
 
@@ -33,3 +33,7 @@ This will open up `localhost:3000` in your web browser.
 ## Getting Help
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+
+## Next Steps
+
+[Lift-off II: Resolvers](https://www.apollographql.com/tutorials/lift-off-part2)
