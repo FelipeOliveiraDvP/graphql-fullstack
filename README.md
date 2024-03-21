@@ -36,4 +36,4 @@ For any issues or problems concerning the course content, please refer to the [O
 
 ## Next Steps
 
-[Lift-off II: Resolvers](https://www.apollographql.com/tutorials/lift-off-part2)
+[Lift-off III: Arguments](https://www.apollographql.com/tutorials/lift-off-part3)
